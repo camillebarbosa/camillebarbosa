@@ -47,6 +47,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&repeat=false&color=ffc0cb&center=false&vCenter=salse&random=false&width=524&lines=%F0%9F%A4%8D+GITHUB+STATS!+" alt="Typing SVG">
   </a>
+
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=camillebarbosa&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 </div>
 
 
