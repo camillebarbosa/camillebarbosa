@@ -43,7 +43,11 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffc0cb&color:#63625f)](https://br.linkedin.com/in/camille-barbosa-96a98729b)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=ffc0cb&color:#63625f)](https://www.instagram.com/dev.cami/)
 
-
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&repeat=false&color=ffc0cb&center=false&vCenter=salse&random=false&width=524&lines=%F0%9F%A4%8D+GITHUB STATS!+" alt="Typing SVG">
+  </a>
+</div>
 
 
 
