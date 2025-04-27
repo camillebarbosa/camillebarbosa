@@ -1,22 +1,22 @@
-## Olá! 👋 Eu sou Camille Barbosa
+## Hello! 👋 I'm Camille Barbosa
 
-Sou uma analista de sistemas apaixonada por desenvolvimento e dados. Atualmente, busco aprimorar minhas habilidades e contribuir para projetos inovadores.
+I'm a systems analyst passionate about development and data. Currently, I'm looking to enhance my skills and contribute to innovative projects.
 
-### 🛠️ Habilidades
+### 🛠️ Skills
 
-Tenho experiência com as seguintes tecnologias e ferramentas:
+I have experience with the following technologies and tools:
 
-* **Linguagens de Programação:** C, HTML, CSS, JavaScript
-* **Análise de Dados:** Power BI, Excel, SQL
+* **Programming Languages:** C, HTML, CSS, JavaScript
+* **Data Analysis:** Power BI, Excel, SQL
 
-### 🌱 Aprendizado Contínuo
+### 🌱 Continuous Learning
 
-Estou sempre em busca de novos conhecimentos e desafios na área de tecnologia.
+I'm always seeking new knowledge and challenges in the technology field.
 
-### 🔗 Conecte-se comigo
+### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/camille-barbosa-96a98729b)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.cami/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camillebarbosadossantos@gmail.com)
 
-Sinta-se à vontade para entrar em contato! 😊
+Feel free to reach out! 😊
