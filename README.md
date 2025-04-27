@@ -42,6 +42,8 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=ffc0cb&color:grey)](mailto:camillebarbosadossantos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffc0cb&color:#63625f)](https://br.linkedin.com/in/camille-barbosa-96a98729b)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=ffc0cb&color:#63625f)](https://www.instagram.com/dev.cami/)
+&nbsp;
+Feel free to reach out! 😊
 
 <div align="left">
   <a href="https://git.io/typing-svg">
@@ -54,7 +56,13 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=camillebarbosa&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=ffc0cb&hide=html,scss,less&bg_color=63625f&text_color=FFF&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
-Feel free to reach out! 😊
+
+
