@@ -39,9 +39,9 @@
   </a>
 </div>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:camillebarbosadossantos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)]([https://www.linkedin.com/in/mari4souza/](https://br.linkedin.com/in/camille-barbosa-96a98729b)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/dev.cami/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=ffc0cb&color:FFF)](mailto:camillebarbosadossantos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffc0cb&color:FFF)](https://br.linkedin.com/in/camille-barbosa-96a98729b)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=ffc0cb&color:FFF)](https://www.instagram.com/dev.cami/)
 
 
 
