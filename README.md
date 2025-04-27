@@ -32,6 +32,7 @@ I'm always seeking new knowledge and challenges in the technology field.
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=ffc0cb&center=false&vCenter=salse&random=false&width=524&lines=%F0%9F%A4%8D+CONNECT+WITH+ME!+" alt="Typing SVG">
   </a>
 </div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/camille-barbosa-96a98729b)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.cami/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camillebarbosadossantos@gmail.com)
