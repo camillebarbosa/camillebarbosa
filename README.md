@@ -4,13 +4,15 @@
   </a>
 </div>
 
-
+&nbsp;
 
 <p> I'm a systems analyst passionate about development and data. Currently, I'm looking to enhance my skills and contribute to innovative projects.</p>
 
 <div>
   <p>I'm always seeking new knowledge and challenges in the technology field.</p>
 </div>
+
+&nbsp;
 
 <div align="left">
   <a href="https://git.io/typing-svg">
