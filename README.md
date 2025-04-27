@@ -32,7 +32,7 @@
 </div>
 
 &nbsp;
-
+<img align="right" alt="" height="190px" src="./src/study.gif">
 <div align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&repeat=false&color=ffc0cb&center=false&vCenter=salse&random=false&width=524&lines=%F0%9F%A4%8D+CONNECT+WITH+ME!+" alt="Typing SVG">
