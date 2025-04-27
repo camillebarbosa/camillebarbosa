@@ -6,9 +6,8 @@
 
 
 
+<h1 color=""> I'm a systems analyst passionate about development and data. Currently, I'm looking to enhance my skills and contribute to innovative projects.</h1>
 
-
-I'm a systems analyst passionate about development and data. Currently, I'm looking to enhance my skills and contribute to innovative projects.
 
 
 ### 🛠️ Skills
