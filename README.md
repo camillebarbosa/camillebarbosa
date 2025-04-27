@@ -24,8 +24,9 @@
    <img align="center" alt="Camille-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </div>
 
-
-<p>I'm always seeking new knowledge and challenges in the technology field.</p>
+<div>
+  <p>I'm always seeking new knowledge and challenges in the technology field.</p>
+</div>
 
 <div align="left">
   <a href="https://git.io/typing-svg">
