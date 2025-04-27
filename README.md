@@ -9,8 +9,11 @@
 <p> I'm a systems analyst passionate about development and data. Currently, I'm looking to enhance my skills and contribute to innovative projects.</p>
 
 
-
-<h3 style="color:pink;"> SKILLS <h3>
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=ffc0cb&center=true&vCenter=true&random=false&width=524&lines=+SKILLS!+" alt="Typing SVG">
+  </a>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Camille-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Camille-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
