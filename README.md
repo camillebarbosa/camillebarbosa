@@ -1,6 +1,15 @@
-## Hello! 👋 I'm Camille Barbosa
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hello!+I'm+Camille+Barbosa+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+
+
+
 
 I'm a systems analyst passionate about development and data. Currently, I'm looking to enhance my skills and contribute to innovative projects.
+
 
 ### 🛠️ Skills
 <div style="display: inline_block"><br>
@@ -13,10 +22,6 @@ I'm a systems analyst passionate about development and data. Currently, I'm look
    <img align="center" alt="Camille-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </div>
 
-I have experience with the following technologies and tools:
-
-* **Programming Languages:** C, HTML, CSS, JavaScript
-* **Data Analysis:** Power BI, Excel, SQL
 
 ### 🌱 Continuous Learning
 
