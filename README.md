@@ -22,7 +22,8 @@ I love building scalable solutions and learning new technologies to solve real-w
 </div>
 <div style="display: inline_block"><br>
  **Technologies & Skills:**  
-Salesforce (Apex, LWC, OmniStudio) | JavaScript  | HTML | CSS | SOQL | Linux | Git
+Salesforce (Apex, LWC, OmniStudio) | JavaScript  | HTML | CSS | SOQL | Linux | Git 
+  <br>
   <img align="center" alt="Camille-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Camille-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Camille-CSS5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
