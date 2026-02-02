@@ -51,6 +51,7 @@ Feel free to reach out! 😊
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&repeat=false&color=ffc0cb&center=false&vCenter=salse&random=false&width=524&lines=%F0%9F%A4%8D+GITHUB+STATS!+" alt="Typing SVG">
   </a>
+  <br>
 <!-- GitHub Stats Alternative -->
 <img src="https://github-readme-stats.zcy.dev/api?username=camillebarbosa&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=63625f&title_color=ffc0cb&text_color=FFFFFF&border_radius=3&border_color=36123c&icon_color=ffc0cb&theme=jolly" alt="GitHub stats" />
 
@@ -58,10 +59,7 @@ Feel free to reach out! 😊
 
 
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=camillebarbosa&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=63625f&title_color=ffc0cb&text_color=FFF&border_radius=3&border_color=36123c&icon_color=ffc0cb&theme=jolly" alt="GitHub stats">
-
-   <a href="https://github.com/camillebarbosa/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=camillebarbosa&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=ffc0cb&hide=html,scss,less&bg_color=63625f&text_color=FFF&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  
 </div>
 &nbsp;
 <picture align="center">
