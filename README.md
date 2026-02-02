@@ -5,7 +5,7 @@
 </div>
 
 &nbsp;
-<img align="right" alt="" height="190px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdnYTI3N2h5dWtzczI3N2RodjJhbnFkYWJ3eXhudHloY3J5czV1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3WW4Zm1F2MeoU/giphy.gif">
+<img align="right" alt="" height="150px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdnYTI3N2h5dWtzczI3N2RodjJhbnFkYWJ3eXhudHloY3J5czV1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3WW4Zm1F2MeoU/giphy.gif">
 <p> I'm a Salesforce developer passionate about backend logic, Lightning Web Components, and OmniStudio.  
 I love building scalable solutions and learning new technologies to solve real-world problems.</p>
 
