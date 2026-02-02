@@ -21,19 +21,13 @@ I love building scalable solutions and learning new technologies to solve real-w
   </a>
 </div>
 <div style="display: inline_block"><br>
-  ![Salesforce](https://cdn.jsdelivr.net/gh/devicons/devicon-plain/icons/salesforce.svg)
-![Apex](https://path-para-icone-apex.svg)
-![LWC](https://path-para-icone-lwc.svg)
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
-...
-
+ **Technologies & Skills:**  
+Salesforce (Apex, LWC, OmniStudio) | JavaScript  | HTML | CSS | SOQL | Linux | Git
   <img align="center" alt="Camille-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Camille-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Camille-CSS5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="camille-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+
    <img align="center" alt="Camille-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
-  <img align="center" alt="Camille-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-   <img align="center" alt="Camille-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
    
   
 </div>
