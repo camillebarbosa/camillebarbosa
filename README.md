@@ -16,11 +16,11 @@ I love building scalable solutions and learning new technologies to solve real-w
 &nbsp;
 
 <div align="left" border="">
-  <a href="https://git.io/typing-svg">
-  </a>
+  
 </div>
 <div style="display: inline_block"><br>
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&repeat=false&color=ffc0cb&center=false&vCenter=salse&random=false&width=524&lines=%F0%9F%A4%8D+TECHNOLOGIES+AND+SKILS!+" alt="Typing SVG">
+  <a href="https://git.io/typing-svg">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&repeat=false&color=ffc0cb&center=false&vCenter=salse&random=false&width=524&lines=%F0%9F%A4%8D+TECHNOLOGIES+AND+SKILS!+" alt="Typing SVG"></a>
   <br>
 Salesforce (Apex, LWC, OmniStudio) | JavaScript  | HTML | CSS | SOQL | Linux | Git 
   <br>
